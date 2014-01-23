@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.programs.steambmcdev" name="SteamBMC" version="0.1.0" provider-name="Leandros">
+<addon id="plugin.programs.steambmcdev" name="SteamBMC" version="0.2.0" provider-name="Leandros">
     <requires>
         <import addon="script.module.pil" version="1.1.7"/>
         <import addon="script.module.requests2" version="2.2.0"/>
@@ -19,9 +19,6 @@
 
 The "VALVe Logo", Valve and Steam are trademarks of Valve Corporation.</disclaimer>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2</license>
-        <forum>http://forum.xbmc.org/showthread.php?tid=165131&page=11</forum>
-        <website>https://github.com/leandros/steambmc</website>
-        <source>https://github.com/leandros/steambmc</source>
     </extension>
 </addon>
 <addon id="script.module.requests2" name="requests2" version="2.2.0" provider-name="kennethreitz">
